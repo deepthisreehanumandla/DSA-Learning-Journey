@@ -1,0 +1,11 @@
+Input:  [3, 7, 2, 9]
+Output: 21
+
+arr = [3, 7, 2, 9]
+
+sum = 0
+
+for num in arr:
+    sum += num
+
+print(sum)
