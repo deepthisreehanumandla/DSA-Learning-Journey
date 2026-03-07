@@ -1,0 +1,99 @@
+1. Concept
+
+An array is a collection of elements stored in contiguous memory locations.
+Each element is accessed using an index.
+
+Indexing usually starts from 0.
+
+Example:
+Array: [10, 20, 30, 40]
+Index:  0   1   2   3
+
+So:
+arr[0] = 10
+arr[1] = 20
+arr[2] = 30
+arr[3] = 40
+
+Arrays store multiple values in a single variable.
+
+2.Why Arrays Are Used
+
+Arrays help to:
+• Store many values together
+• Access elements using index
+• Process data efficiently using loops
+
+Example use cases:
+
+Storing marks of students
+List of prices
+Tracking scores
+
+3. Visual Explanation
+
+Example:
+
+arr = [5, 8, 2, 7]
+
+Memory representation:
+
+Index →   0    1    2    3
+        ---------------------
+Array → | 5 | 8 | 2 | 7 |
+        ---------------------
+
+Each box stores a value.
+
+4.Common Patterns in Array Problems
+
+When solving interview problems, arrays often follow these patterns.
+
+1. Traversal
+
+Visit each element.
+
+Example:
+
+Find maximum element
+Find minimum element
+Sum of array
+2. Two Pointer Technique
+
+Used when working with:
+• sorted arrays
+• pairs
+• reversing arrays
+
+Example problems:
+Two Sum
+Reverse Array
+Remove Duplicates
+
+3. Sliding Window
+
+Used when dealing with:
+subarrays
+maximum/minimum sums
+fixed window sizes
+
+Example:
+Maximum sum subarray
+Longest substring
+
+4. Prefix Sum
+
+Used when repeatedly calculating range sums.
+
+Example:
+Sum from index L to R
+Instead of recalculating each time, we precompute cumulative sums.
+
+Example:
+
+Array: [1,2,3,4]
+
+Prefix Sum:
+[1,3,6,10]
+
+Managing data in algorithms
