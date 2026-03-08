@@ -1,0 +1,28 @@
+arr = [1,2,3,4,5]
+k = 2
+
+k = k % len(arr)
+
+arr = arr[k:] + arr[:k]
+
+print(arr)
+
+
+#without slicing
+
+arr = [1,2,3,4,5]
+k = 2
+
+n = len(arr)
+k = k % n
+
+for _ in range(k):
+    
+    first = arr[0]
+    
+    for i in range(n-1):
+        arr[i] = arr[i+1]
+    
+    arr[n-1] = first
+
+print(arr)
