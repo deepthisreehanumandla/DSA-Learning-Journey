@@ -1,0 +1,13 @@
+arr = [1,0,2,0,3,4]
+
+result = []
+
+for num in arr:
+    if num != 0:
+        result.append(num)
+
+zeros = arr.count(0)
+
+result = result + [0]*zeros
+
+print(result)
