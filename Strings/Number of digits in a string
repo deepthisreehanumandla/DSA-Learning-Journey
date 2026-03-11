@@ -1,0 +1,8 @@
+str_val = "abc123def456"
+count = 0
+
+for ch in str_val:
+    if ch.isdigit():
+        count += 1
+
+print(count)
