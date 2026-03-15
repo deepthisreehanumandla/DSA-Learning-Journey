@@ -1,7 +1,7 @@
 ## Capacity To Ship Packages Within D Days
 
 ![Capacity to Ship Packages](image.png)
-
+ 
 ```python
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
