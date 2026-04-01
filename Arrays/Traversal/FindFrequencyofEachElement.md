@@ -1,3 +1,4 @@
+``` Python
 Input:  [1,2,1,3,2,1]
 Output:
 1 → 3
