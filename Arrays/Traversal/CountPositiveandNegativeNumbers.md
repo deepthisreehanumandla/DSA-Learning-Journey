@@ -1,3 +1,4 @@
+```
 Input:  [-2, 3, 4, -1, 5]
 
 Output:
@@ -17,3 +18,4 @@ for num in arr:
 
 print("Positive:",pos)
 print("Negative:",neg)
+```
