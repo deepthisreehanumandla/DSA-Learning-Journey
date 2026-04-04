@@ -23,7 +23,7 @@ Instead of checking every element (O(n²)), we use a **monotonic decreasing stac
 2. Use stack to find next greater for each element
 3. Store results in hashmap
 4. Build answer for `nums1`
-
+ 
 ---
 
 ## 💻 Code (Python)
