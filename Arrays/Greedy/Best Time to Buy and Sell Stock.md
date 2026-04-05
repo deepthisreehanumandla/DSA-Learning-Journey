@@ -3,7 +3,7 @@
 * LeetCode #: 121
 * Approach: Greedy (Single Pass)
 
----
+--- 
 
 ## 🧠 Intuition
 
