@@ -1,6 +1,6 @@
 # Find Resultant Array After Removing Anagrams (LeetCode 2273)
 
-## Problem
+## Problem 
 Remove consecutive strings that are anagrams of each other and return the remaining array.
 
 ```
