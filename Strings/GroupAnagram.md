@@ -1,6 +1,6 @@
 # Group Anagrams (LeetCode 49)
 
-## Problem
+## Problem 
 Group strings that are anagrams of each other.
 
 ```
