@@ -5,7 +5,7 @@ Find the largest substring of length 3 where all digits are the same.
 
 ```
 Input:  "6777133339"
-Output: "777"
+Output: "777" 
 ```
 
 If no such substring exists, return `""`.
