@@ -2,7 +2,7 @@ Binary Search is a searching algorithm used on a sorted array.
 
 Instead of checking every element like Linear Search, it repeatedly divides the array into halves.
 Binary Search works only when the array is sorted.
-
+ 
 Steps:
 -Find the middle element
 -Compare it with the target
