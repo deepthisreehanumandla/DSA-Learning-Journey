@@ -1,7 +1,7 @@
 def first_occurrence(arr, target):
     
     left = 0
-    right = len(arr) - 1
+    right = len(arr) - 1 
     ans = -1
     
     while left <= right:
