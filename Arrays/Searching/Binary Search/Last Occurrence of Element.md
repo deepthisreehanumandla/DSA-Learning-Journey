@@ -1,7 +1,7 @@
 Input:
 arr = [1,2,2,2,3,4]
 target = 2
-
+ 
 Output:
 3
 
