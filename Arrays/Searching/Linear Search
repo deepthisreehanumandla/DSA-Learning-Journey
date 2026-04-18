@@ -4,7 +4,7 @@ Linear Search
 
 Find the index of a target element in an array by checking each element one by one.
 
-Example:
+Example: 
 
 Input:
 arr = [4, 7, 1, 9]
